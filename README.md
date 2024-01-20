@@ -1,7 +1,7 @@
 
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8TDC6v3uxiYEX1bjAfJGlbSSkZNoeyXUNqn1XpdOcU5LzEUagazWe4g1kbEGiyVu51IYOtyGEoL98XEaa7O1_lXcPCC-FCyVHQa6AN9YZWCfXfRi3lWz5HssE0eT6xPDEg0fihTvAYpU7A_ibUPtL8pAR6WU0KdMT5NrWBRaHIQWDTl-n8vW0K2XZmm_I/s1536/fotor-ai-20240119235939.jpg" width="700" height="320" />
 
-<h1 align="center">Hellooo 👋, I'm Busra</h1>
+<h1 align="center">Hellooo 👋 I'm Busra</h1>
 <h3 align="center">I am engineering who is interested in Software and taking photo</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
