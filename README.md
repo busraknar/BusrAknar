@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8TDC6v3uxiYEX1bjAfJGlbSSkZNoeyXUNqn1XpdOcU5LzEUagazWe4g1kbEGiyVu51IYOtyGEoL98XEaa7O1_lXcPCC-FCyVHQa6AN9YZWCfXfRi3lWz5HssE0eT6xPDEg0fihTvAYpU7A_ibUPtL8pAR6WU0KdMT5NrWBRaHIQWDTl-n8vW0K2XZmm_I/s1536/fotor-ai-20240119235939.jpg" width="640" height="320" /></div>
+<div style="text-align:center"><img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8TDC6v3uxiYEX1bjAfJGlbSSkZNoeyXUNqn1XpdOcU5LzEUagazWe4g1kbEGiyVu51IYOtyGEoL98XEaa7O1_lXcPCC-FCyVHQa6AN9YZWCfXfRi3lWz5HssE0eT6xPDEg0fihTvAYpU7A_ibUPtL8pAR6WU0KdMT5NrWBRaHIQWDTl-n8vW0K2XZmm_I/s1536/fotor-ai-20240119235939.jpg" width="700" height="320" /></div>
 
 <h1 align="center">Hellooo 👋, I'm Busra</h1>
 <h3 align="center">I am engineering who is interested in Software and taking photo</h3>
